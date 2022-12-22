@@ -9,4 +9,6 @@ USA births by day
 -----------------------------------
 ![indir (8)](https://user-images.githubusercontent.com/97463861/209210867-04fb1e40-04b0-4aea-9184-6b5b0b98aac7.png)
 -----------------------------------
+USA births by day of year (1969-1988)
+
 ![indir (9)](https://user-images.githubusercontent.com/97463861/209211112-c7888b62-61f2-46f8-b3a9-014479a7837c.png)
